@@ -16,3 +16,4 @@
 
 ### *Extraa*
 * Key Displayer [YAKD](https://github.com/Jagailo/YetAnotherKeyDisplayer)
+* [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
